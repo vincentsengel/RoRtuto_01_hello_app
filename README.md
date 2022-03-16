@@ -1,24 +1,11 @@
-# README
+# The Ruby on Rails tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## exercise one: "hello, world!"
 
-Things you may want to cover:
+basic exercise on how to:
+- create a rails app
+- create a simple method in the application controller
+- modifie the router so the main route leads to this method
+- create git repo and put it to GitHub
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+from the book by Michael Hartl
